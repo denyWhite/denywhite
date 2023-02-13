@@ -1,4 +1,4 @@
- <img src="https://github.com/denyWhite/denywhite/blob/main/banner(1).png">
+ <img src="https://github.com/denyWhite/denywhite/blob/main/banner.png">
  
  
 
